@@ -49,3 +49,18 @@ h2 {
   font-size: 1.5rem;
   color: var(--primary);
 }
+.hero {
+  background: linear-gradient(120deg, #0066cc, #004080);
+  color: white;
+  text-align: center;
+  padding: 3rem 1rem;
+  border-radius: 0 0 30px 30px;
+  margin-bottom: 2rem;
+}
+.card {
+  background: #fff;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+}
