@@ -64,3 +64,12 @@ h2 {
   border-radius: 10px;
   box-shadow: var(--shadow);
 }
+section {
+  text-align: center;
+}
+
+.card, ul {
+  text-align: left;
+  display: inline-block;
+  margin: 1rem auto;
+}
